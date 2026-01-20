@@ -1,9 +1,11 @@
 # Hello, my name is Ryan Hendricks
-### About me
-Currently I am engaged in higher level learning at Texas A&M Unniversity to gain a degree in Electronic Systems Engineering Technology. I plan to use this degree to enter the semiconductor and computing work force.
-### Current Projects
-Alongside the various projects I typically engage with during my schooling, I have developed an interest in the modding scene of the Indie-developed game [*Starsector*](https://fractalsoftworks.com/). In late 2025 I began the development of my own mod for the game, *R-Sector*, with which I hope to sprite, script-write, and storyboard a faction based off of the lore and designs of the [*R-Type*](https://en.wikipedia.org/wiki/R-Type) (Specifically the *Tactics* spinoff series) franchise originally published by **Irem** (Now known as [Irem Engineering Software](https://en.wikipedia.org/wiki/Irem)). As of yet, I have made little progress on this mod other than some rudimentary spriting and balance work, but I hope to have a funtional first prototype completed by the end of 2026.
+## About me
+Currently I am engaged in higher level learning at Texas A&M Unniversity to gain a degree in Electronic Systems Engineering Technology (ESET). I plan to use this degree to enter the semiconductor and computing work force in the Spring of 2027. 
 
+## Current Projects
+Alongside the various projects I typically engage with during my schooling, I have developed an interest in the modding scene of the Indie-developed game [*Starsector*](https://fractalsoftworks.com/). In late 2025 I began the development of my own personal mod for the game, *R-Sector*, with which I hope to sprite, script-write, and storyboard a faction based off of the lore and designs of the [*R-Type*](https://en.wikipedia.org/wiki/R-Type) (Specifically the *Tactics* spinoff series) franchise originally published by **Irem** (Now known as [Irem Engineering Software](https://en.wikipedia.org/wiki/Irem)). As of yet, I have made little progress on this mod other than some rudimentary spriting and balance work, but I hope to have a funtional first prototype completed by the end of 2026.
+
+I am currently looking for a musician familiar with the creation of electronic music to commision a soundtrack for this mod. If you, or someone you know are interested in discussing commission prices, feel free to reach out to my public email at rchendric@gmail.com, or leave a message at my public phone number (737)704-4283. Please note that due to ongoing schooling, I will be unavailable take calls on most weekdays. 
 
 <!--
 **rchendric/rchendric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
