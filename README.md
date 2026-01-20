@@ -1,4 +1,4 @@
-# Greetings, my name is Ryan Hendricks
+# Hello, my name is Ryan Hendricks
 ### About me
 Currently I am engaged in higher level learning at Texas A&M Unniversity to gain a degree in Electronic Systems Engineering Technology. I plan to use this degree to enter the semiconductor and computing work force.
 ### Current Projects
