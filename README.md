@@ -2,7 +2,7 @@
 ### About me
 Currently I am engaged in higher level learning at Texas A&M Unniversity to gain a degree in Electronic Systems Engineering Technology. I plan to use this degree to enter the semiconductor and computing work force.
 ### Current Projects
-Alongside the various projects I typically engage with during my schooling, I have developed an interest in the modding scene of the Indie-developed game *Starsector*. In late 2025 I began the development of my own mod for the game, *R-Sector*, with which I hope to sprite, script-write, and storyboard a faction based off of the lore a designs of the *R-Type* franchise originally published by **Irem**. As of yet, I have made little progress on the mod other than some rudimentary spriting and balance work, but I hope to have a funtional first prototype ready by the end of 2026.
+Alongside the various projects I typically engage with during my schooling, I have developed an interest in the modding scene of the Indie-developed game [*Starsector*](https://fractalsoftworks.com/). In late 2025 I began the development of my own mod for the game, *R-Sector*, with which I hope to sprite, script-write, and storyboard a faction based off of the lore and designs of the [*R-Type*](https://en.wikipedia.org/wiki/R-Type) (Specifically the *Tactics* spinoff series) franchise originally published by **Irem** (Now known as [Irem Engineering Software](https://en.wikipedia.org/wiki/Irem)). As of yet, I have made little progress on this mod other than some rudimentary spriting and balance work, but I hope to have a funtional first prototype completed by the end of 2026.
 
 
 <!--
