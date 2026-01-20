@@ -1,4 +1,9 @@
-## Hi there 👋
+# Greetings, my name is Ryan Hendricks
+### About me
+Currently I am engaged in higher level learning at Texas A&M Unniversity to gain a degree in Electronic Systems Engineering Technology. I plan to use this degree to enter the semiconductor and computing work force.
+### Current Projects
+Alongside the various projects I typically engage with during my schooling, I have developed an interest in the modding scene of the Indie-developed game *Starsector*. In late 2025 I began the development of my own mod for the game, *R-Sector*, with which I hope to sprite, script-write, and storyboard a faction based off of the lore a designs of the *R-Type* franchise originally published by **Irem**. As of yet, I have made little progress on the mod other than some rudimentary spriting and balance work, but I hope to have a funtional first prototype ready by the end of 2026.
+
 
 <!--
 **rchendric/rchendric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
